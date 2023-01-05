@@ -1,11 +1,11 @@
 <h1>Márcia Helena. Front-end Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<p>Hello, my name is Márcia, I'm a Front End programmer.</p>
+<p>Hello, my name is Márcia, I'm a front-end development student.</p>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MARCIAHELENALIMA)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marciahelenalima/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marciahelenalimac@gmail.com)
 
-Bem-vindo(a) à minha página do Github! Eu sou Márcia e estou cursando Analise e desenvolvimento de sistemas pela Unifatecie!  
+Bem-vindo(a) à minha página do Github! Estou cursando Analise e desenvolvimento de sistemas pela Unifatecie! 
 
 <img align="right" alt="img" src="https://user-images.githubusercontent.com/112713600/210675660-7b8b93ab-6b61-4001-b176-1c76fef6406a.png" width="50%" height="auto" />
 
