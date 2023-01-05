@@ -43,5 +43,9 @@ Bem-vindo(a) à minha página do Github! Estou cursando Analise e desenvolviment
 </div>
 
 ##
+<div align="center">
+  <a href="https://github.com/MARCIAHELENALIMA">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MARCIAHELENALIMA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ![ Animação de cobra ](https://user-images.githubusercontent.com/112713600/210834429-99258731-0f98-46ea-b0cc-ccf38a664124.svg)
