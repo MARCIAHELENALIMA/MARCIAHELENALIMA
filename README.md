@@ -12,7 +12,7 @@ Bem-vindo(a) à minha página do Github! Estou cursando Analise e desenvolviment
 
 #### 🧠 Coisas em que estou trabalhando atualmente:
 - Terminar minha graduação
-- Fazer cursos online sobre HTML5 | CSS | JavaScript | TypeScript | React  
+- Fazer cursos online sobre HTML5 | CSS | Java| React  
 - Concluir meu site de portfólio 🚀 *coming soon*
 ##
 
