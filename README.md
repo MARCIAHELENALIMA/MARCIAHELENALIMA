@@ -1,5 +1,5 @@
-<h1>Márcia Helena. Front-end Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<p>Hello, my name is Márcia, I'm a front-end development student.</p>
+<h1>Márcia Helena. Back-end Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<p>Hello, my name is Márcia, I'm a back-end development student.</p>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MARCIAHELENALIMA)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marciahelenalima/)
@@ -12,7 +12,7 @@ Bem-vindo(a) à minha página do Github! Estou cursando Analise e desenvolviment
 
 #### 🧠 Coisas em que estou trabalhando atualmente:
 - Terminar minha graduação
-- Fazer cursos online sobre HTML5 | CSS | Java| React  
+- Fazer cursos online sobre HTML5 | CSS | Java | MySQL | PostgreSQL | Git 
 - Concluir meu site de portfólio 🚀 *coming soon*
 ##
 
