@@ -34,26 +34,18 @@ Bem-vindo(a) à minha página do Github! Estou cursando Analise e desenvolviment
 
 ## 🧠 Minha Stack
  Essas são algumas das tecnologias que uso no dia a dia
-<div align="center">
- <img src="https://media.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif" width="100">      
- <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">      
- <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">      
+ <div style="display: flex"><br>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
 ##
-<div style="display: inline_block"><br>
- <!--  <img align="center" alt="Marcia-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
-  <img align="center" alt="Marcia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marcia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marcia-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Marcia-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Marcia-CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
-
-##
-<div align="center">
+<div style="display: flex; gap: 10px">
   <a href="https://www.linkedin.com/in/marciahelenalima/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MARCIAHELENALIMA&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
 </div>
-
+  
 ![ Animação de cobra ](https://user-images.githubusercontent.com/112713600/210834429-99258731-0f98-46ea-b0cc-ccf38a664124.svg)
