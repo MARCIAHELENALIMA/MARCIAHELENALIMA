@@ -21,7 +21,7 @@ Bem-vindo(a) à minha página do Github! Estou cursando Analise e desenvolviment
 
 #### 🧠 Coisas em que estou trabalhando atualmente:
 - Terminar minha graduação
-- Fazer cursos online sobre HTML5 | CSS | Java | MySQL | PostgreSQL | Git 
+- Fazer cursos online sobre 𝐉𝐚𝐯𝐚 | 𝐒𝐐𝐋 | 𝐣𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 | 𝐒𝐩𝐫𝐢𝐧𝐠 | 𝐇𝐢𝐛𝐞𝐫𝐧𝐚𝐭𝐞 | 𝐉𝐬𝐟 | 𝐇𝐭𝐦𝐥 | 𝐂𝐬𝐬 | 𝐉𝐃𝐁𝐂 | 𝐌𝐚𝐯𝐞𝐧 | 𝐏𝐫𝐢𝐦𝐞𝐟𝐚𝐜𝐞𝐬 | 𝐉𝐏𝐀 | Git 
 - Concluir meu site de portfólio 🚀 *coming soon*
 ##
 
