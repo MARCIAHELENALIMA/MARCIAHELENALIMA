@@ -22,7 +22,7 @@ Bem-vindo(a) à minha página do Github! Estou cursando Analise e desenvolviment
 #### 🧠 Coisas em que estou trabalhando atualmente:
 - Terminar minha graduação
 - Fazer cursos online sobre:
-𝐉𝐚𝐯𝐚 | 𝐒𝐐𝐋 | 𝐣𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 | 𝐒𝐩𝐫𝐢𝐧𝐠 
+JAVA | Kotlin | SQL | Git | GitHub | Spring Boot
 - Concluir meu site de portfólio 🚀 *coming soon*
 ##
 
@@ -37,10 +37,7 @@ Bem-vindo(a) à minha página do Github! Estou cursando Analise e desenvolviment
  Essas são algumas das tecnologias que uso no dia a dia
  <div style="display: flex"><br>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+
 </div>
 
 ##
