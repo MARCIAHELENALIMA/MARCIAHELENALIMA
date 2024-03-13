@@ -37,7 +37,10 @@ JAVA | Kotlin | SQL | Git | GitHub | Spring Boot
  Essas são algumas das tecnologias que uso no dia a dia
  <div style="display: flex"><br>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-
+  <img height="30" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/kotlin-logo.png">
+  <img height="30" width="40" src="https://logodix.com/logo/542034.jpg">
+  <img height="30" width="40" src="https://1000logos.net/wp-content/uploads/2023/04/Git-logo.png">
+  <img height="30" width="40" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png">
 </div>
 
 ##
